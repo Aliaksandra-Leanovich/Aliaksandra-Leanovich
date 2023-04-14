@@ -1,4 +1,4 @@
-# Hey,there! I'm Aliaksandra Leanovice 👋
+# Hey,there! I'm Aliaksandra Leanovich 👋
   ### Frontend Developer 👩🏽‍💻
    <div align="center">
   <img src="https://media.giphy.com/media/uB86ZyWQsnFSGYe2sA/giphy.gif" width="400" />
